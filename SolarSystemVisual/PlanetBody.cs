@@ -13,6 +13,12 @@ namespace SolarSystemVisual
         private double radius;
         private Color color;
 
+        private double XSpeed;
+        private double YSpeed;
+
+        private int XPos;
+        private int YPos;
+
         public PlanetBody(double mass, double radius, Color color)
         {
             this.mass = mass;
@@ -49,6 +55,13 @@ namespace SolarSystemVisual
             set => this.Color = value;
         }
 
+
+
+        public void UpdatePosition()
+        {
+            this.XPos = this.XPos + (int)(this.XSpeed);
+            this.YPos = this.YPos + (int)(this.YSpeed);
+        }
 
 
         public abstract void GetDetails();
