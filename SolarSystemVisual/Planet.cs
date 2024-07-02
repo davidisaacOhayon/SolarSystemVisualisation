@@ -19,9 +19,9 @@ namespace SolarSystemVisual
 
 
 
-        public void GetDetails()
+        public override void GetDetails()
         {
-
+            Console.WriteLine("Test");
         }
     }
 }
