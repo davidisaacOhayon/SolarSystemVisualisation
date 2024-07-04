@@ -1,0 +1,10 @@
+C:\Users\david\Desktop\SolarSystemVisual\SolarSystemVisual\bin\Debug\SolarSystemVisual.exe.config
+C:\Users\david\Desktop\SolarSystemVisual\SolarSystemVisual\bin\Debug\SolarSystemVisual.exe
+C:\Users\david\Desktop\SolarSystemVisual\SolarSystemVisual\bin\Debug\SolarSystemVisual.pdb
+C:\Users\david\Desktop\SolarSystemVisual\SolarSystemVisual\obj\Debug\SolarSystemVisual.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\SolarSystemVisual\SolarSystemVisual\obj\Debug\SolarSystemVisual.Form1.resources
+C:\Users\david\Desktop\SolarSystemVisual\SolarSystemVisual\obj\Debug\SolarSystemVisual.Properties.Resources.resources
+C:\Users\david\Desktop\SolarSystemVisual\SolarSystemVisual\obj\Debug\SolarSystemVisual.csproj.GenerateResource.cache
+C:\Users\david\Desktop\SolarSystemVisual\SolarSystemVisual\obj\Debug\SolarSystemVisual.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\SolarSystemVisual\SolarSystemVisual\obj\Debug\SolarSystemVisual.exe
+C:\Users\david\Desktop\SolarSystemVisual\SolarSystemVisual\obj\Debug\SolarSystemVisual.pdb
